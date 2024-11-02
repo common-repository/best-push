@@ -1,0 +1,16 @@
+{
+    "name": "best-push/best-push",
+    "authors": [
+        {
+            "name": "bestpush.io",
+            "email": "info@bestpush.io"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"BestPushInc\\": "./inc"}
+    },
+    "require-dev": {
+    }
+}

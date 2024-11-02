@@ -1,0 +1,1 @@
+importScripts("https://static.bestpush.io/bestpushweb-sw.js");
